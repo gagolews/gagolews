@@ -14,5 +14,5 @@ Python packages:
 * [genieclust](https://genieclust.gagolewski.com/)
 
 Data:
-* https://github.com/gagolews/clustering_benchmarks_v1/
-* https://github.com/gagolews/teaching_data
+* [Clustering benchmarks](https://github.com/gagolews/clustering_benchmarks_v1/)
+* [Teaching resources](https://github.com/gagolews/teaching_data)
