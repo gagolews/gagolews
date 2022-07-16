@@ -1,7 +1,8 @@
-Some links:
+[My homepage](https://www.gagolewski.com/)
 
-* [My homepage](https://www.gagolewski.com/)
-* [Minimalist Data Wrangling in Python](https://datawranglingpy.gagolewski.com/) (book draft)
+Open-access textbooks:
+
+* [Minimalist Data Wrangling in Python](https://datawranglingpy.gagolewski.com/) (complete)
 
 R packages:
 
@@ -11,8 +12,10 @@ R packages:
 * [realtest](https://realtest.gagolewski.com/)
 
 Python packages:
+
 * [genieclust](https://genieclust.gagolewski.com/)
 
 Data:
+
 * [Clustering benchmarks](https://github.com/gagolews/clustering_benchmarks_v1/)
 * [Teaching resources](https://github.com/gagolews/teaching_data)
