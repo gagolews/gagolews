@@ -1,4 +1,6 @@
-[My homepage](https://www.gagolewski.com/)
+Start here:
+
+* **[My homepage](https://www.gagolewski.com/)**
 
 Open-access textbooks:
 
