@@ -2,7 +2,7 @@ Start here:
 
 * **[My homepage](https://www.gagolewski.com/)**
 
-Open-access textbooks (please spread the news!):
+Open-access textbooks (non-profit, free, independent; please spread the news!):
 
 * [Minimalist Data Wrangling in Python](https://datawranglingpy.gagolewski.com/)
   ([PDF](https://datawranglingpy.gagolewski.com/datawranglingpy.pdf))
