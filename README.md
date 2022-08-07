@@ -23,7 +23,9 @@ R packages:
   ([CRAN](https://cran.r-project.org/package=stringx)) 
 * [realtest](https://realtest.gagolewski.com/)
   ([CRAN](https://cran.r-project.org/package=realtest)) 
-
+* [TurtleGraphics](https://github.com/gagolews/TurtleGraphics)
+  ([CRAN](https://cran.r-project.org/package=TurtleGraphics)) 
+  
 Python packages:
 
 * [genieclust](https://genieclust.gagolewski.com/) 
