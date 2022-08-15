@@ -17,27 +17,27 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
 
 R packages:
 
-* [stringi](https://stringi.gagolewski.com/) 
+* [stringi](https://stringi.gagolewski.com/) – Fast and portable character string processing in R
   ([GitHub](https://github.com/gagolews/stringi))
   ([CRAN](https://cran.r-project.org/package=stringi)) 
   ([paper](https://doi.org/10.18637/jss.v103.i02))
-* [genieclust](https://genieclust.gagolewski.com/)
+* [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering with noise point detection
   ([GitHub](https://github.com/gagolews/genieclust))
   ([CRAN](https://cran.r-project.org/package=genieclust)) 
   ([paper](https://doi.org/10.1016/j.softx.2021.100722))
-* [stringx](https://stringx.gagolewski.com/)
+* [stringx](https://stringx.gagolewski.com/) – Drop-in replacements for base R string functions powered by [stringi](https://stringi.gagolewski.com/)
   ([GitHub](https://github.com/gagolews/stringx))
   ([CRAN](https://cran.r-project.org/package=stringx)) 
-* [realtest](https://realtest.gagolewski.com/)
+* [realtest](https://realtest.gagolewski.com/) – Where expectations meet reality: Realistic unit testing in R
   ([GitHub](https://github.com/gagolews/realtest))
   ([CRAN](https://cran.r-project.org/package=realtest)) 
-* TurtleGraphics
+* TurtleGraphics – Learn computer programming in R while having a jolly time!
   ([GitHub](https://github.com/gagolews/TurtleGraphics))
   ([CRAN](https://cran.r-project.org/package=TurtleGraphics)) 
   
 Python packages:
 
-* [genieclust](https://genieclust.gagolewski.com/) 
+* [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering with noise point detection
   ([GitHub](https://github.com/gagolews/genieclust))
   ([PyPI](https://pypi.org/project/genieclust/))
   ([paper](https://doi.org/10.1016/j.softx.2021.100722))
