@@ -1,6 +1,20 @@
+# Marek Gagolewski
+
+*I'm currently a Senior Lecturer in Applied AI at Deakin University in Melbourne, Australia and an Associate Professor in Data Science (on leave) at the Faculty of Mathematics and Information Science, Warsaw University of Technology, Poland.*
+
+*My research interests include machine learning, data aggregation and clustering, computational statistics, mathematical modelling (the science of science, sport, economics, etc.).*
+
+*In my spare time, I write books for my students and develop free (libre) data analysis software.*
+
+---
+
 Start here:
 
 * **[My homepage](https://www.gagolewski.com/)**
+
+
+---
+
 
 Open-access textbooks (non-profit, free, independent; please spread the news!):
 
@@ -14,6 +28,10 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
 * Algorytmy i podstawy programowania w języku C++ (in Polish)
   ([PDF](https://raw.githubusercontent.com/gagolews/aipp/master/aipp.pdf)) 
   ([GitHub](https://github.com/gagolews/aipp))
+
+
+---
+
 
 R packages:
 
@@ -35,12 +53,19 @@ R packages:
   ([GitHub](https://github.com/gagolews/TurtleGraphics))
   ([CRAN](https://cran.r-project.org/package=TurtleGraphics)) 
   
+ 
+---
+
 Python packages:
 
 * [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering with noise point detection
   ([GitHub](https://github.com/gagolews/genieclust))
   ([PyPI](https://pypi.org/project/genieclust/))
   ([paper](https://doi.org/10.1016/j.softx.2021.100722))
+
+
+---
+
 
 Data:
 
