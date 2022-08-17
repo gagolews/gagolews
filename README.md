@@ -69,5 +69,5 @@ Python packages:
 
 Data:
 
-* [Clustering benchmarks](https://github.com/gagolews/clustering_benchmarks_v1/)
-* [Teaching resources](https://github.com/gagolews/teaching_data)
+* [Clustering Benchmarks](https://github.com/gagolews/clustering-benchmarks/)
+* [Teaching Resources](https://github.com/gagolews/teaching-data)
