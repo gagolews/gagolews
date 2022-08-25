@@ -22,6 +22,7 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
   ([HTML](https://datawranglingpy.gagolewski.com/))
   ([PDF](https://datawranglingpy.gagolewski.com/datawranglingpy.pdf))
   ([GitHub](https://github.com/gagolews/datawranglingpy))
+  ([Amazon](https://www.amazon.com/dp/0645571911))
 * Data Fusion 
   ([PDF](https://raw.githubusercontent.com/gagolews/datafusion/master/datafusion.pdf)) 
   ([GitHub](https://github.com/gagolews/datafusion))
