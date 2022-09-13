@@ -82,5 +82,5 @@ Python packages:
 
 Data:
 
-* [Clustering Benchmarks](https://github.com/gagolews/clustering-benchmarks/)
+* [A Framework for Benchmarking Clustering Algorithms](https://clustering-benchmarks.gagolewski.com/)
 * [Teaching Resources](https://github.com/gagolews/teaching-data)
