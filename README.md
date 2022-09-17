@@ -45,10 +45,24 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
 
 ---
 
+Python packages:
+
+* [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering with noise point detection
+  ([GitHub](https://github.com/gagolews/genieclust))
+  ([PyPI](https://pypi.org/project/genieclust/))
+  ([paper](https://doi.org/10.1016/j.softx.2021.100722))
+* [clustering-benchmarks](http://clustering-benchmarks.gagolewski.com/) – A Framework for Benchmarking Clustering Algorithms 
+  ([GitHub](https://github.com/gagolews/clustering-benchmarks/))
+  ([PyPI](https://pypi.org/project/clustering-benchmarks/))
+  (paper 🚧)
+  
+---
+
+
 
 R packages:
 
-* [stringi](https://stringi.gagolewski.com/) – Fast and portable character string processing in R
+* [stringi](https://stringi.gagolewski.com/) – Fast and portable character string processing in R (one of the most often downloaded packages for R)
   ([GitHub](https://github.com/gagolews/stringi))
   ([CRAN](https://cran.r-project.org/package=stringi)) 
   ([paper](https://doi.org/10.18637/jss.v103.i02))
@@ -69,18 +83,8 @@ R packages:
  
 ---
 
-Python packages:
-
-* [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering with noise point detection
-  ([GitHub](https://github.com/gagolews/genieclust))
-  ([PyPI](https://pypi.org/project/genieclust/))
-  ([paper](https://doi.org/10.1016/j.softx.2021.100722))
-
-
----
-
 
 Data:
 
-* [A Framework for Benchmarking Clustering Algorithms](https://clustering-benchmarks.gagolewski.com/)
+* [Clustering Benchmarks](https://clustering-benchmarks.gagolewski.com/) (framework, datasets, results)
 * [Teaching Resources](https://github.com/gagolews/teaching-data)
