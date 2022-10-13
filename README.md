@@ -54,7 +54,7 @@ Python packages:
 * [clustering-benchmarks](http://clustering-benchmarks.gagolewski.com/) – A Framework for Benchmarking Clustering Algorithms 
   ([GitHub](https://github.com/gagolews/clustering-benchmarks/))
   ([PyPI](https://pypi.org/project/clustering-benchmarks/))
-  (paper 🚧)
+  ([paper](https://doi.org/10.48550/arXiv.2209.09493))
   
 ---
 
