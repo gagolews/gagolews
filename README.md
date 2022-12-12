@@ -51,10 +51,10 @@ Python packages:
   ([GitHub](https://github.com/gagolews/genieclust))
   ([PyPI](https://pypi.org/project/genieclust/))
   ([paper](https://doi.org/10.1016/j.softx.2021.100722))
-* [clustering-benchmarks](http://clustering-benchmarks.gagolewski.com/) – A Framework for Benchmarking Clustering Algorithms 
+* [clustering-benchmarks](http://clustering-benchmarks.gagolewski.com/) – A framework for benchmarking clustering algorithms 
   ([GitHub](https://github.com/gagolews/clustering-benchmarks/))
   ([PyPI](https://pypi.org/project/clustering-benchmarks/))
-  ([paper](https://doi.org/10.48550/arXiv.2209.09493))
+  ([paper](https://doi.org/10.1016/j.softx.2022.101270))
   
 ---
 
