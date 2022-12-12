@@ -1,4 +1,4 @@
-# Marek Gagolewski
+# Prof. Marek Gagolewski
 
 *I'm currently a Senior Lecturer in Applied AI at Deakin University in Melbourne, Australia and an Associate Professor (on leave) at the Systems Research Institute, Polish Academy of Sciences.*
 
