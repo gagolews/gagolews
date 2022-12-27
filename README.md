@@ -1,4 +1,4 @@
-# Prof. Marek Gagolewski
+# Dr habil. Marek Gagolewski
 
 *I'm currently a Senior Lecturer in Applied AI at Deakin University in Melbourne, Australia and an Associate Professor (on leave) at the Systems Research Institute, Polish Academy of Sciences.*
 
@@ -35,12 +35,12 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
   [SE](https://amazon.se/dp/0645571911)
   [UK](https://amazon.co.uk/dp/0645571911)
   [US](https://amazon.com/dp/0645571911))
-* Data Fusion 
-  ([PDF](https://raw.githubusercontent.com/gagolews/datafusion/master/datafusion.pdf)) 
-  ([GitHub](https://github.com/gagolews/datafusion))
-* Algorytmy i podstawy programowania w języku C++ (in Polish)
-  ([PDF](https://raw.githubusercontent.com/gagolews/aipp/master/aipp.pdf)) 
-  ([GitHub](https://github.com/gagolews/aipp))
+* [Deep R Programming](https://deepr.gagolewski.com/)
+  ([HTML](https://deepr.gagolewski.com/))
+  ([PDF](https://deepr.gagolewski.com/deepr.pdf))
+  ([GitHub](https://github.com/gagolews/deepr)) (draft)
+
+and [many more](https://www.gagolewski.com/publications_by_type.html).
 
 
 ---
