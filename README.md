@@ -11,7 +11,38 @@
 Start here:
 
 * **[My homepage](https://www.gagolewski.com/)**
+---
 
+
+<div style="clear: both; text-align: center; margin-left: auto; margin-right: auto; display: block; width: 100%; align: center">
+<a href='https://stringi.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/stringi.png' alt='stringi' width='96px' style='margin: 2px' />
+</a>
+<a href='https://stringx.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/stringx.png' alt='stringx' width='96px' style='margin: 2px' />
+</a>
+<a href='https://realtest.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/realtest.png' alt='realtest' width='96px' style='margin: 2px' />
+</a>
+<a href='https://clustering-benchmarks.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/clustbench.png' alt='clustering-benchmarks' width='96px' style='margin: 2px' />
+</a>
+<a href='https://genieclust.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='96px' style='margin: 2px' />
+</a>
+</div>
+    
+---
+
+
+<div style="clear: both; text-align: center; margin-left: auto; margin-right: auto; display: block; width: 100%; align: center">
+<a href='https://datawranglingpy.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/datawranglingpy-cover.png' alt='Minimalist Data Wrangling with Python' width='150px' style='margin: 2px' />
+</a>
+<a href='https://deepr.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/deepr-cover.png' alt='Deep R Programming' width='150px' style='margin: 2px' />
+</a>
+</div>
 
 ---
 
@@ -42,14 +73,7 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
 
 and [many more](https://www.gagolewski.com/publications_by_type.html).
 
-<div style="clear: both; text-align: center;">
-<a href='https://datawranglingpy.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/datawranglingpy-cover.png' alt='Minimalist Data Wrangling with Python' width='150px' style='margin: 2px' />
-</a>
-<a href='https://deepr.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/deepr-cover.png' alt='Deep R Programming' width='150px' style='margin: 2px' />
-</a>
-</div>
+
 
 ---
 
@@ -97,24 +121,3 @@ Data:
 
 * [Clustering Benchmarks](https://clustering-benchmarks.gagolewski.com/) (framework, datasets, results)
 * [Teaching Resources](https://github.com/gagolews/teaching-data)
-
----
-
-<div style="clear: both; text-align: center;">
-<a href='https://stringi.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/stringi.png' alt='stringi' width='96px' style='margin: 2px' />
-</a>
-<a href='https://stringx.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/stringx.png' alt='stringx' width='96px' style='margin: 2px' />
-</a>
-<a href='https://realtest.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/realtest.png' alt='realtest' width='96px' style='margin: 2px' />
-</a>
-<a href='https://clustering-benchmarks.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/clustbench.png' alt='clustering-benchmarks' width='96px' style='margin: 2px' />
-</a>
-<a href='https://genieclust.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='96px' style='margin: 2px' />
-</a>
-</div>
-    
