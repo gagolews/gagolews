@@ -112,7 +112,6 @@ R packages:
   ([GitHub](https://github.com/gagolews/TurtleGraphics))
   ([CRAN](https://cran.r-project.org/package=TurtleGraphics)) 
 
-
  
 ---
 
