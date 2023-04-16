@@ -1,6 +1,6 @@
 # Dr habil. Marek Gagolewski
 
-*I'm currently a Senior Lecturer in Applied AI at Deakin University in Melbourne, Australia and an Associate Professor (on leave) at the Systems Research Institute, Polish Academy of Sciences.*
+*I'm currently a Senior Lecturer in Applied AI/Data Science at Deakin University in Melbourne, Australia, and an Associate Professor (on leave) at the Systems Research Institute, Polish Academy of Sciences.*
 
 *My research interests include machine learning, data aggregation and clustering, computational and applied statistics, mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
 
