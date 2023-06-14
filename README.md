@@ -2,7 +2,7 @@
 
 *I'm currently a Senior Lecturer in Applied AI/Data Science at Deakin University in Melbourne, Australia, and an Associate Professor (on leave) at the Systems Research Institute, Polish Academy of Sciences.*
 
-*My research interests include machine learning, data aggregation and clustering, computational and applied statistics, mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
+*My research interests include machine learning, data aggregation and clustering, computational and applied statistics, and mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
 
 *In my spare time, I write books for my students and develop free (libre) data analysis software.*
 
@@ -49,7 +49,12 @@ Start here:
 
 Open-access textbooks (non-profit, free, independent; please spread the news!):
 
-* [Minimalist Data Wrangling in Python](https://datawranglingpy.gagolewski.com/)
+* [Deep R programming](https://deepr.gagolewski.com/)
+  ([HTML](https://deepr.gagolewski.com/))
+  ([PDF](https://deepr.gagolewski.com/deepr.pdf))
+  ([GitHub](https://github.com/gagolews/deepr))
+  
+* [Minimalist data wrangling in Python](https://datawranglingpy.gagolewski.com/)
   ([HTML](https://datawranglingpy.gagolewski.com/))
   ([PDF](https://datawranglingpy.gagolewski.com/datawranglingpy.pdf))
   ([GitHub](https://github.com/gagolews/datawranglingpy))
@@ -66,10 +71,6 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
   [SE](https://amazon.se/dp/0645571911)
   [UK](https://amazon.co.uk/dp/0645571911)
   [US](https://amazon.com/dp/0645571911))
-* [Deep R Programming](https://deepr.gagolewski.com/)
-  ([HTML](https://deepr.gagolewski.com/))
-  ([PDF](https://deepr.gagolewski.com/deepr.pdf))
-  ([GitHub](https://github.com/gagolews/deepr)) (draft)
 
 and [many more](https://www.gagolewski.com/publications_by_type.html).
 
@@ -118,5 +119,5 @@ R packages:
 
 Data:
 
-* [Clustering Benchmarks](https://clustering-benchmarks.gagolewski.com/) (framework, datasets, results)
-* [Teaching Resources](https://github.com/gagolews/teaching-data)
+* [Clustering benchmarks](https://clustering-benchmarks.gagolewski.com/) (framework, datasets, results)
+* [Datasets for teaching](https://github.com/gagolews/teaching-data)
