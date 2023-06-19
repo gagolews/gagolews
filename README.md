@@ -49,12 +49,12 @@ Start here:
 
 Open-access textbooks (non-profit, free, independent; please spread the news!):
 
-* [Deep R programming](https://deepr.gagolewski.com/)
+* [Deep R Programming](https://deepr.gagolewski.com/)
   ([HTML](https://deepr.gagolewski.com/))
   ([PDF](https://deepr.gagolewski.com/deepr.pdf))
   ([GitHub](https://github.com/gagolews/deepr))
   
-* [Minimalist data wrangling in Python](https://datawranglingpy.gagolewski.com/)
+* [Minimalist Data Wrangling in Python](https://datawranglingpy.gagolewski.com/)
   ([HTML](https://datawranglingpy.gagolewski.com/))
   ([PDF](https://datawranglingpy.gagolewski.com/datawranglingpy.pdf))
   ([GitHub](https://github.com/gagolews/datawranglingpy))
