@@ -1,4 +1,4 @@
-# Dr habil. Marek Gagolewski
+# Dr habil. [Marek Gagolewski](https://www.gagolewski.com/)
 
 *I'm currently a Senior Lecturer in Applied AI/Data Science at Deakin University in Melbourne, Australia, and an Associate Professor (on leave) at the Systems Research Institute, Polish Academy of Sciences.*
 *My research interests include machine learning, data aggregation and clustering, computational and applied statistics, and mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
@@ -30,8 +30,7 @@
 <img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='96px' style='margin: 2px' />
 </a>
 </div>
-    
----
+  
 
 Start here:
 
@@ -98,10 +97,6 @@ R packages:
 * TurtleGraphics – Learn computer programming in R while having a jolly time!
   ([GitHub](https://github.com/gagolews/TurtleGraphics))
   ([CRAN](https://cran.r-project.org/package=TurtleGraphics)) 
-
- 
----
-
 
 Data:
 
