@@ -1,18 +1,17 @@
 # Dr habil. Marek Gagolewski
 
 *I'm currently a Senior Lecturer in Applied AI/Data Science at Deakin University in Melbourne, Australia, and an Associate Professor (on leave) at the Systems Research Institute, Polish Academy of Sciences.*
-
 *My research interests include machine learning, data aggregation and clustering, computational and applied statistics, and mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
+*In my spare time, I write books for my students and develop open-source data analysis software.*
 
-*In my spare time, I write books for my students and develop free (libre) data analysis software.*
-
----
-
-Start here:
-
-* **[My homepage](https://www.gagolewski.com/)**
----
-
+<div style="clear: both; text-align: center; margin-left: auto; margin-right: auto; display: block; width: 100%; align: center">
+<a href='https://datawranglingpy.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/datawranglingpy-cover.png' alt='Minimalist Data Wrangling with Python' width='150px' style='margin: 2px' />
+</a>
+<a href='https://deepr.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/deepr-cover.png' alt='Deep R Programming' width='150px' style='margin: 2px' />
+</a>
+</div>
 
 <div style="clear: both; text-align: center; margin-left: auto; margin-right: auto; display: block; width: 100%; align: center">
 <a href='https://stringi.gagolewski.com/'>
@@ -34,17 +33,9 @@ Start here:
     
 ---
 
+Start here:
 
-<div style="clear: both; text-align: center; margin-left: auto; margin-right: auto; display: block; width: 100%; align: center">
-<a href='https://datawranglingpy.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/datawranglingpy-cover.png' alt='Minimalist Data Wrangling with Python' width='150px' style='margin: 2px' />
-</a>
-<a href='https://deepr.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/deepr-cover.png' alt='Deep R Programming' width='150px' style='margin: 2px' />
-</a>
-</div>
-
----
+* **[My homepage](https://www.gagolewski.com/)**
 
 
 Open-access textbooks (non-profit, free, independent; please spread the news!):
@@ -75,9 +66,6 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
 and [many more](https://www.gagolewski.com/publications_by_type.html).
 
 
-
----
-
 Python packages:
 
 * [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering with noise point detection
@@ -89,8 +77,6 @@ Python packages:
   ([PyPI](https://pypi.org/project/clustering-benchmarks/))
   ([paper](https://doi.org/10.1016/j.softx.2022.101270))
   
----
-
 
 
 R packages:
