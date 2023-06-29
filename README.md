@@ -4,7 +4,7 @@
 *My research interests include machine learning, data aggregation and clustering, computational and applied statistics, and mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
 *In my spare time, I write books for my students and develop open-source data analysis software.*
 
-<div style="clear: both; text-align: center; margin-left: auto; margin-right: auto; display: block; width: 100%; align: center">
+<div style="clear: both; text-align: center; margin-left: auto; margin-bottom: 1em; margin-right: auto; display: block; width: 100%; align: center">
 <a href='https://datawranglingpy.gagolewski.com/'>
 <img src='https://www.gagolewski.com/_static/img/datawranglingpy-cover.png' alt='Minimalist Data Wrangling with Python' width='150px' style='margin: 2px' />
 </a>
@@ -13,7 +13,7 @@
 </a>
 </div>
 
-<div style="clear: both; text-align: center; margin-left: auto; margin-right: auto; display: block; width: 100%; align: center">
+<div style="clear: both; text-align: center; margin-left: auto; margin-bottom: 1em; margin-right: auto; display: block; width: 100%; align: center">
 <a href='https://stringi.gagolewski.com/'>
 <img src='https://www.gagolewski.com/_static/img/stringi.png' alt='stringi' width='96px' style='margin: 2px' />
 </a>
@@ -43,6 +43,19 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
   ([HTML](https://deepr.gagolewski.com/))
   ([PDF](https://deepr.gagolewski.com/deepr.pdf))
   ([GitHub](https://github.com/gagolews/deepr))
+  ([Amazon](https://www.amazon.com/dp/064557192X):
+  [AU](https://amazon.com.au/dp/064557192X)
+  [CA](https://amazon.ca/dp/064557192X)
+  [DE](https://amazon.de/dp/064557192X)
+  [ES](https://amazon.es/dp/064557192X)
+  [FR](https://amazon.fr/dp/064557192X)
+  [IT](https://amazon.it/dp/064557192X)
+  [JP](https://amazon.co.jp/dp/064557192X)
+  [NL](https://amazon.nl/dp/064557192X)
+  [PL](https://amazon.pl/dp/064557192X)
+  [SE](https://amazon.se/dp/064557192X)
+  [UK](https://amazon.co.uk/dp/064557192X)
+  [US](https://amazon.com/dp/064557192X))
   
 * [Minimalist Data Wrangling in Python](https://datawranglingpy.gagolewski.com/)
   ([HTML](https://datawranglingpy.gagolewski.com/))
