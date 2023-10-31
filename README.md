@@ -1,6 +1,6 @@
 # Dr habil. [Marek Gagolewski](https://www.gagolewski.com/)
 
-*I'm currently a Senior Lecturer in Applied AI/Data Science at Deakin University in Melbourne, Australia, and an Associate Professor (on leave) at the Systems Research Institute, Polish Academy of Sciences.*
+*I'm currently a Senior Lecturer in Applied AI/Data Science at Deakin University in Melbourne, Australia.*
 *My research interests include machine learning, data aggregation and clustering, computational and applied statistics, and mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
 *In my spare time, I write books for my students and develop open-source data analysis software.*
 
@@ -15,19 +15,19 @@
 
 <div style="clear: both; text-align: center; margin-left: auto; margin-bottom: 1em; margin-right: auto; display: block; width: 100%; align: center">
 <a href='https://stringi.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/stringi.png' alt='stringi' width='96px' style='margin: 2px' />
+<img src='https://www.gagolewski.com/_static/img/stringi.png' alt='stringi' width='96px' style='margin: 0px' />
 </a>
 <a href='https://stringx.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/stringx.png' alt='stringx' width='96px' style='margin: 2px' />
+<img src='https://www.gagolewski.com/_static/img/stringx.png' alt='stringx' width='96px' style='margin: 0px' />
 </a>
 <a href='https://realtest.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/realtest.png' alt='realtest' width='96px' style='margin: 2px' />
+<img src='https://www.gagolewski.com/_static/img/realtest.png' alt='realtest' width='96px' style='margin: 0px' />
 </a>
 <a href='https://clustering-benchmarks.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/clustbench.png' alt='clustering-benchmarks' width='96px' style='margin: 2px' />
+<img src='https://www.gagolewski.com/_static/img/clustbench.png' alt='clustering-benchmarks' width='96px' style='margin: 0px' />
 </a>
 <a href='https://genieclust.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='96px' style='margin: 2px' />
+<img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='96px' style='margin: 0px' />
 </a>
 </div>
   
