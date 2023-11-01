@@ -4,6 +4,11 @@
 *My research interests include machine learning, data aggregation and clustering, computational and applied statistics, and mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
 *In my spare time, I write books for my students and develop open-source data analysis software.*
 
+
+Start here:
+
+* **[My homepage](https://www.gagolewski.com/)**
+
 <div style="clear: both; text-align: center; margin-left: auto; margin-bottom: 1em; margin-right: auto; display: block; width: 100%; align: center">
 <a href='https://datawranglingpy.gagolewski.com/'>
 <img src='https://www.gagolewski.com/_static/img/datawranglingpy-cover.png' alt='Minimalist Data Wrangling with Python' width='150px' style='margin: 2px' />
@@ -13,28 +18,7 @@
 </a>
 </div>
 
-<div style="clear: both; text-align: center; margin-left: auto; margin-bottom: 1em; margin-right: auto; display: block; width: 100%; align: center">
-<a href='https://stringi.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/stringi.png' alt='stringi' width='96px' style='margin: 0px' />
-</a>
-<a href='https://stringx.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/stringx.png' alt='stringx' width='96px' style='margin: 0px' />
-</a>
-<a href='https://realtest.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/realtest.png' alt='realtest' width='96px' style='margin: 0px' />
-</a>
-<a href='https://clustering-benchmarks.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/clustbench.png' alt='clustering-benchmarks' width='96px' style='margin: 0px' />
-</a>
-<a href='https://genieclust.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='96px' style='margin: 0px' />
-</a>
-</div>
-  
 
-Start here:
-
-* **[My homepage](https://www.gagolewski.com/)**
 
 
 Open-access textbooks (non-profit, free, independent; please spread the news!):
@@ -75,9 +59,27 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
   [UK](https://amazon.co.uk/dp/0645571911)
   [US](https://amazon.com/dp/0645571911))
 
-and [many more](https://www.gagolewski.com/publications_by_type.html).
 
 
+<div style="clear: both; text-align: center; margin-left: auto; margin-bottom: 1em; margin-right: auto; display: block; width: 100%; align: center">
+<a href='https://stringi.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/stringi.png' alt='stringi' width='96px' style='margin: 0px' />
+</a>
+<a href='https://stringx.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/stringx.png' alt='stringx' width='96px' style='margin: 0px' />
+</a>
+<a href='https://realtest.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/realtest.png' alt='realtest' width='96px' style='margin: 0px' />
+</a>
+<a href='https://clustering-benchmarks.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/clustbench.png' alt='clustering-benchmarks' width='96px' style='margin: 0px' />
+</a>
+<a href='https://genieclust.gagolewski.com/'>
+<img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='96px' style='margin: 0px' />
+</a>
+</div>
+
+  
 Python packages:
 
 * [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering with noise point detection
