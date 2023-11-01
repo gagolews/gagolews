@@ -1,27 +1,24 @@
 # Dr habil. [Marek Gagolewski](https://www.gagolewski.com/)
 
 *I'm currently a Senior Lecturer in Applied AI/Data Science at Deakin University in Melbourne, Australia.*
+
 *My research interests include machine learning, data aggregation and clustering, computational and applied statistics, and mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
+
 *In my spare time, I write books for my students and develop open-source data analysis software.*
 
 
-Start here:
+## Open-access textbooks
 
-* **[My homepage](https://www.gagolewski.com/)**
-
-<div style="clear: both; text-align: center; margin-left: auto; margin-bottom: 1em; margin-right: auto; display: block; width: 100%; align: center">
-<a href='https://datawranglingpy.gagolewski.com/'>
+<a href='https://datawranglingpy.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/datawranglingpy-cover.png' alt='Minimalist Data Wrangling with Python' width='150px' style='margin: 2px' />
 </a>
-<a href='https://deepr.gagolewski.com/'>
+<a href='https://deepr.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/deepr-cover.png' alt='Deep R Programming' width='150px' style='margin: 2px' />
 </a>
-</div>
 
 
 
 
-Open-access textbooks (non-profit, free, independent; please spread the news!):
 
 * [Deep R Programming](https://deepr.gagolewski.com/)
   ([HTML](https://deepr.gagolewski.com/))
@@ -60,27 +57,26 @@ Open-access textbooks (non-profit, free, independent; please spread the news!):
   [US](https://amazon.com/dp/0645571911))
 
 
+## Software
 
-<div style="clear: both; text-align: center; margin-left: auto; margin-bottom: 1em; margin-right: auto; display: block; width: 100%; align: center">
-<a href='https://stringi.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/stringi.png' alt='stringi' width='96px' style='margin: 0px' />
+<a href='https://stringi.gagolewski.com/' align="center">
+<img src='https://www.gagolewski.com/_static/img/stringi.png' alt='stringi' width='128' style='margin: 0px' />
 </a>
-<a href='https://stringx.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/stringx.png' alt='stringx' width='96px' style='margin: 0px' />
+<a href='https://stringx.gagolewski.com/' align="center">
+<img src='https://www.gagolewski.com/_static/img/stringx.png' alt='stringx' width='128' style='margin: 0px' />
 </a>
-<a href='https://realtest.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/realtest.png' alt='realtest' width='96px' style='margin: 0px' />
+<a href='https://realtest.gagolewski.com/' align="center">
+<img src='https://www.gagolewski.com/_static/img/realtest.png' alt='realtest' width='128' style='margin: 0px' />
 </a>
-<a href='https://clustering-benchmarks.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/clustbench.png' alt='clustering-benchmarks' width='96px' style='margin: 0px' />
+<a href='https://clustering-benchmarks.gagolewski.com/' align="center">
+<img src='https://www.gagolewski.com/_static/img/clustbench.png' alt='clustering-benchmarks' width='128' style='margin: 0px' />
 </a>
-<a href='https://genieclust.gagolewski.com/'>
-<img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='96px' style='margin: 0px' />
+<a href='https://genieclust.gagolewski.com/' align="center">
+<img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='128' style='margin: 0px' />
 </a>
-</div>
 
   
-Python packages:
+### Python packages
 
 * [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering with noise point detection
   ([GitHub](https://github.com/gagolews/genieclust))
@@ -93,7 +89,7 @@ Python packages:
   
 
 
-R packages:
+### R packages
 
 * [stringi](https://stringi.gagolewski.com/) – Fast and portable character string processing in R (one of the most often downloaded packages for R)
   ([GitHub](https://github.com/gagolews/stringi))
@@ -113,7 +109,7 @@ R packages:
   ([GitHub](https://github.com/gagolews/TurtleGraphics))
   ([CRAN](https://cran.r-project.org/package=TurtleGraphics)) 
 
-Data:
+## Data
 
 * [Clustering benchmarks](https://clustering-benchmarks.gagolewski.com/) (framework, datasets, results)
 * [Datasets for teaching](https://github.com/gagolews/teaching-data)
