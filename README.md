@@ -6,11 +6,9 @@
 
 *In my spare time, I write books for my students and develop open-source data analysis software.*
 
+<div align="center">
 <a href='https://deepr.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/deepr.png' alt='Deep R Programming' width='128' style='margin: 0px' />
-</a>
-<a href='https://datawranglingpy.gagolewski.com/' align="center">
-<img src='https://www.gagolewski.com/_static/img/datawranglingpy.png' alt='Minimalist Data Wrangling with Python' width='128' style='margin: 0px' />
 </a>
 <a href='https://stringi.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/stringi.png' alt='stringi' width='128' style='margin: 0px' />
@@ -21,13 +19,19 @@
 <a href='https://realtest.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/realtest.png' alt='realtest' width='128' style='margin: 0px' />
 </a>
+
+<br />
+
+<a href='https://datawranglingpy.gagolewski.com/' align="center">
+<img src='https://www.gagolewski.com/_static/img/datawranglingpy.png' alt='Minimalist Data Wrangling with Python' width='128' style='margin: 0px' />
+</a>
 <a href='https://clustering-benchmarks.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/clustbench.png' alt='clustering-benchmarks' width='128' style='margin: 0px' />
 </a>
 <a href='https://genieclust.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='128' style='margin: 0px' />
 </a>
-
+</div>
 
 ## Open-access textbooks
 
