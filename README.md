@@ -38,38 +38,14 @@
 * [Deep R Programming](https://deepr.gagolewski.com/)
   ([HTML](https://deepr.gagolewski.com/))
   ([PDF](https://deepr.gagolewski.com/deepr.pdf))
+  ([paper copy](https://deepr.gagolewski.com/order-paper-copy.html))
   ([GitHub](https://github.com/gagolews/deepr))
-  ([Amazon](https://www.amazon.com/dp/064557192X):
-  [AU](https://amazon.com.au/dp/064557192X)
-  [CA](https://amazon.ca/dp/064557192X)
-  [DE](https://amazon.de/dp/064557192X)
-  [ES](https://amazon.es/dp/064557192X)
-  [FR](https://amazon.fr/dp/064557192X)
-  [IT](https://amazon.it/dp/064557192X)
-  [JP](https://amazon.co.jp/dp/064557192X)
-  [NL](https://amazon.nl/dp/064557192X)
-  [PL](https://amazon.pl/dp/064557192X)
-  [SE](https://amazon.se/dp/064557192X)
-  [UK](https://amazon.co.uk/dp/064557192X)
-  [US](https://amazon.com/dp/064557192X))
   
 * [Minimalist Data Wrangling in Python](https://datawranglingpy.gagolewski.com/)
   ([HTML](https://datawranglingpy.gagolewski.com/))
   ([PDF](https://datawranglingpy.gagolewski.com/datawranglingpy.pdf))
+  ([paper copy](https://datawranglingpy.gagolewski.com/order-paper-copy.html))
   ([GitHub](https://github.com/gagolews/datawranglingpy))
-  ([Amazon](https://www.amazon.com/dp/0645571911):
-  [AU](https://amazon.com.au/dp/0645571911)
-  [CA](https://amazon.ca/dp/0645571911)
-  [DE](https://amazon.de/dp/0645571911)
-  [ES](https://amazon.es/dp/0645571911)
-  [FR](https://amazon.fr/dp/0645571911)
-  [IT](https://amazon.it/dp/0645571911)
-  [JP](https://amazon.co.jp/dp/0645571911)
-  [NL](https://amazon.nl/dp/0645571911)
-  [PL](https://amazon.pl/dp/0645571911)
-  [SE](https://amazon.se/dp/0645571911)
-  [UK](https://amazon.co.uk/dp/0645571911)
-  [US](https://amazon.com/dp/0645571911))
 
 
 ## Software
@@ -85,7 +61,6 @@
   ([PyPI](https://pypi.org/project/clustering-benchmarks/))
   ([paper](https://doi.org/10.1016/j.softx.2022.101270))
   
-
 
 ### R packages
 
@@ -106,6 +81,7 @@
 * TurtleGraphics – Learn computer programming in R while having a jolly time!
   ([GitHub](https://github.com/gagolews/TurtleGraphics))
   ([CRAN](https://cran.r-project.org/package=TurtleGraphics)) 
+
 
 ## Data
 
