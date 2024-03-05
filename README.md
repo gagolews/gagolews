@@ -1,6 +1,4 @@
-# Dr habil. [Marek Gagolewski](https://www.gagolewski.com/)
-
-*I'm currently a Senior Lecturer in Applied AI/Data Science at Deakin University in Melbourne, Australia.*
+# Prof. [Marek Gagolewski](https://www.gagolewski.com/)
 
 *My research interests include machine learning, data aggregation and clustering, computational and applied statistics, and mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
 
