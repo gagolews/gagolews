@@ -1,6 +1,6 @@
 # Prof. [Marek Gagolewski](https://www.gagolewski.com/)
 
-*My research interests include data science, machine learning, data aggregation and clustering, computational and applied statistics, and mathematical modelling (the science of science, sport, economics, social sciences, psychometrics, bibliometrics, etc.).*
+*My current research interests are related to data science — with a focus on modelling complex phenomena, developing usable, general-purpose algorithms, studying their analytical properties, and finding out how people (laymen, decision makers, students, and researchers from different fields) use, misuse, understand, and misunderstand data analysis methods in scientific, business, political, social, and other settings.*
 *In my spare time, I write books for my students and develop open-source data analysis software.*
 
 <div align="center">
@@ -28,6 +28,12 @@
 <a href='https://genieclust.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='128' style='margin: 0px' />
 </a>
+<a href='https://deadwood.gagolewski.com/' align="center">
+<img src='https://www.gagolewski.com/_static/img/deadwood.png' alt='deadwood' width='128' style='margin: 0px' />
+</a>
+<a href='https://quitefastmst.gagolewski.com/' align="center">
+<img src='https://www.gagolewski.com/_static/img/quitefastmst.png' alt='quitefastmst' width='128' style='margin: 0px' />
+</a>
 </div>
 
 ## Open-access textbooks
@@ -53,6 +59,12 @@
   ([GitHub](https://github.com/gagolews/genieclust))
   ([PyPI](https://pypi.org/project/genieclust/))
   ([paper](https://doi.org/10.1016/j.softx.2021.100722))
+* [deadwood](https://deadwood.gagolewski.com/) – Outlier detection via trimming of mutual reachability minimum spanning trees
+  ([GitHub](https://github.com/gagolews/deadwood))
+  ([PyPI](https://pypi.org/project/deadwood/))
+* [quitefastmst](https://quitefastmst.gagolewski.com/) – Euclidean and mutual reachability minimum spanning tree algorithms
+  ([GitHub](https://github.com/gagolews/quitefastmst))
+  ([PyPI](https://pypi.org/project/quitefastmst/))
 * [clustering-benchmarks](http://clustering-benchmarks.gagolewski.com/) – A framework for benchmarking clustering algorithms 
   ([GitHub](https://github.com/gagolews/clustering-benchmarks/))
   ([PyPI](https://pypi.org/project/clustering-benchmarks/))
@@ -69,6 +81,12 @@
   ([GitHub](https://github.com/gagolews/genieclust))
   ([CRAN](https://cran.r-project.org/package=genieclust)) 
   ([paper](https://doi.org/10.1016/j.softx.2021.100722))
+* [deadwood](https://deadwood.gagolewski.com/) – Outlier detection via trimming of mutual reachability minimum spanning trees
+  ([GitHub](https://github.com/gagolews/deadwood))
+  ([CRAN](https://cran.r-project.org/package=deadwood))
+* [quitefastmst](https://quitefastmst.gagolewski.com/) – Euclidean and mutual reachability minimum spanning tree algorithms
+  ([GitHub](https://github.com/gagolews/quitefastmst))
+  ([CRAN](https://cran.r-project.org/package=quitefastmst)) 
 * [stringx](https://stringx.gagolewski.com/) – Drop-in replacements for base R string functions powered by [stringi](https://stringi.gagolewski.com/)
   ([GitHub](https://github.com/gagolews/stringx))
   ([CRAN](https://cran.r-project.org/package=stringx)) 
