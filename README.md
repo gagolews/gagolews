@@ -1,6 +1,6 @@
 # Prof. [Marek Gagolewski](https://www.gagolewski.com/)
 
-*My current research interests are related to data science — with a focus on modelling complex phenomena, developing usable, general-purpose algorithms, studying their analytical properties, and finding out how people (laymen, decision makers, students, and researchers from different fields) use, misuse, understand, and misunderstand data analysis methods in scientific, business, political, social, and other settings.*
+*My current research interests are related to data science, with a focus on modelling complex phenomena, developing usable, general-purpose algorithms, studying their analytical properties, and finding out how people (laymen, decision makers, students, and researchers from different fields) use, misuse, understand, and misunderstand data analysis methods in scientific, business, political, social, and other settings.*
 *In my spare time, I write books for my students and develop open-source data analysis software.*
 
 <div align="center">
@@ -55,7 +55,7 @@
   
 ### Python packages
 
-* [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering with noise point detection
+* [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering
   ([GitHub](https://github.com/gagolews/genieclust))
   ([PyPI](https://pypi.org/project/genieclust/))
   ([paper](https://doi.org/10.1016/j.softx.2021.100722))
@@ -77,7 +77,7 @@
   ([GitHub](https://github.com/gagolews/stringi))
   ([CRAN](https://cran.r-project.org/package=stringi)) 
   ([paper](https://doi.org/10.18637/jss.v103.i02))
-* [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering with noise point detection
+* [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering
   ([GitHub](https://github.com/gagolews/genieclust))
   ([CRAN](https://cran.r-project.org/package=genieclust)) 
   ([paper](https://doi.org/10.1016/j.softx.2021.100722))
