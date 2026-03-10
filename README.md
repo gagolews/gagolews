@@ -25,6 +25,10 @@
 <a href='https://clustering-benchmarks.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/clustbench.png' alt='clustering-benchmarks' width='128' style='margin: 0px' />
 </a>
+<a href='https://quitefastmst.gagolewski.com/' align="center">
+<img src='https://www.gagolewski.com/_static/img/quitefastmst.png' alt='quitefastmst' width='128' style='margin: 0px' />
+</a>
+</div>
 <a href='https://genieclust.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='128' style='margin: 0px' />
 </a>
@@ -34,10 +38,7 @@
 <a href='https://lumbermark.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/lumbermark.png' alt='lumbermark' width='128' style='margin: 0px' />
 </a>
-<a href='https://quitefastmst.gagolewski.com/' align="center">
-<img src='https://www.gagolewski.com/_static/img/quitefastmst.png' alt='quitefastmst' width='128' style='margin: 0px' />
-</a>
-</div>
+
 
 ## Open-access textbooks
 
@@ -56,18 +57,29 @@
 
 ## Software
   
-### Python packages
+### Python and R packages
 
+* [lumbermark](https://lumbermark.gagolewski.com/) – Resistant clustering via chopping up mutual reachability minimum spanning trees
+  ([GitHub](https://github.com/gagolews/lumbermark))
+  ([PyPI](https://pypi.org/project/lumbermark/))
+  ([CRAN](https://cran.r-project.org/package=lumbermark)) 
+* [deadwood](https://deadwood.gagolewski.com/) – Outlier detection via pruning mutual reachability minimum spanning trees
+  ([GitHub](https://github.com/gagolews/deadwood))
+  ([PyPI](https://pypi.org/project/deadwood/))
+  ([CRAN](https://cran.r-project.org/package=deadwood)) 
 * [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering
   ([GitHub](https://github.com/gagolews/genieclust))
   ([PyPI](https://pypi.org/project/genieclust/))
+  ([CRAN](https://cran.r-project.org/package=genieclust)) 
   ([paper](https://doi.org/10.1016/j.softx.2021.100722))
-* [deadwood](https://deadwood.gagolewski.com/) – Outlier detection via trimming of mutual reachability minimum spanning trees
-  ([GitHub](https://github.com/gagolews/deadwood))
-  ([PyPI](https://pypi.org/project/deadwood/))
 * [quitefastmst](https://quitefastmst.gagolewski.com/) – Euclidean and mutual reachability minimum spanning tree algorithms
   ([GitHub](https://github.com/gagolews/quitefastmst))
   ([PyPI](https://pypi.org/project/quitefastmst/))
+  ([CRAN](https://cran.r-project.org/package=quitefastmst)) 
+
+
+### Python packages
+
 * [clustering-benchmarks](http://clustering-benchmarks.gagolewski.com/) – A framework for benchmarking clustering algorithms 
   ([GitHub](https://github.com/gagolews/clustering-benchmarks/))
   ([PyPI](https://pypi.org/project/clustering-benchmarks/))
@@ -80,16 +92,6 @@
   ([GitHub](https://github.com/gagolews/stringi))
   ([CRAN](https://cran.r-project.org/package=stringi)) 
   ([paper](https://doi.org/10.18637/jss.v103.i02))
-* [genieclust](https://genieclust.gagolewski.com/) – Fast and robust hierarchical clustering
-  ([GitHub](https://github.com/gagolews/genieclust))
-  ([CRAN](https://cran.r-project.org/package=genieclust)) 
-  ([paper](https://doi.org/10.1016/j.softx.2021.100722))
-* [deadwood](https://deadwood.gagolewski.com/) – Outlier detection via trimming of mutual reachability minimum spanning trees
-  ([GitHub](https://github.com/gagolews/deadwood))
-  ([CRAN](https://cran.r-project.org/package=deadwood))
-* [quitefastmst](https://quitefastmst.gagolewski.com/) – Euclidean and mutual reachability minimum spanning tree algorithms
-  ([GitHub](https://github.com/gagolews/quitefastmst))
-  ([CRAN](https://cran.r-project.org/package=quitefastmst)) 
 * [stringx](https://stringx.gagolewski.com/) – Drop-in replacements for base R string functions powered by [stringi](https://stringi.gagolewski.com/)
   ([GitHub](https://github.com/gagolews/stringx))
   ([CRAN](https://cran.r-project.org/package=stringx)) 
