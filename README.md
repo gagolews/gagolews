@@ -28,7 +28,6 @@
 <a href='https://quitefastmst.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/quitefastmst.png' alt='quitefastmst' width='128' style='margin: 0px' />
 </a>
-</div>
 <a href='https://genieclust.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/genieclust.png' alt='genieclust' width='128' style='margin: 0px' />
 </a>
@@ -38,6 +37,7 @@
 <a href='https://lumbermark.gagolewski.com/' align="center">
 <img src='https://www.gagolewski.com/_static/img/lumbermark.png' alt='lumbermark' width='128' style='margin: 0px' />
 </a>
+</div>
 
 
 ## Open-access textbooks
